@@ -41,7 +41,7 @@
     <td><b>vlsi desing ⭐⭐⭐⭐</b></td>
   </tr>
 </table cellspacing="10">
-    <hr size="1" noshade>
+<hr size="1" noshade>
     <center>
         <h2>contents of <strong>html</strong></h2>
       </center>
