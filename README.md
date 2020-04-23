@@ -1,11 +1,8 @@
 <html lang="en" dir="ltr">
-
 <head>
   <meta charset="utf-8">
-  <title>Singaram's</title>
 </head>
 <body>
-
 <img src="https://media-exp1.licdn.com/dms/image/C4E03AQEH2gmCCuGp7w/profile-displayphoto-shrink_200_200/0?e=1593043200&v=beta&t=hUb9MAnUh_wbNgl2MY6qAe1jCIixAI0Q-x8DGkVBZYA" alt="vikas image"><h1> singaram vikas</h1>
 <p>
   <em>upcoming web developer </em>
