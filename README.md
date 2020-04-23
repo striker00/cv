@@ -24,10 +24,10 @@
         <td>2011-2013</td>
         <td>secondary high school</td>
       </tr>
-      <tfoot>
+      <tr>
         <td>2000-2011</td>
         <td>high school</td>
-      </tfoot>
+      </tr>
     </table>
 <hr size="1" noshade>
 <h3>skills</h3>
