@@ -42,9 +42,7 @@
   </tr>
 </table>
 <hr size="1" noshade>
-    <center>
-        <h2>contents of <strong>html</strong></h2>
-      </center>
+      <h2>contents of <strong>html</strong></h2>
       <h3>introduction to web development</h3>
       <ul>
         <li><a href="https://fcit.usf.edu/internet/chap1/chap1.htm">Basics of internet</a></li>
