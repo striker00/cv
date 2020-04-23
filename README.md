@@ -31,7 +31,7 @@
     </table>
 <hr size="1" noshade>
 <h3>skills</h3>
-<table cellspacing="10">
+<table>
   <tr>
     <td><b>web developer ⭐⭐</b></td>
     <td><b>python developer ⭐⭐⭐</b></td>
@@ -40,7 +40,7 @@
     <td><b>c language ⭐</b></td>
     <td><b>vlsi desing ⭐⭐⭐⭐</b></td>
   </tr>
-</table cellspacing="10">
+</table>
 <hr size="1" noshade>
     <center>
         <h2>contents of <strong>html</strong></h2>
