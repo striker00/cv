@@ -22,7 +22,6 @@
       <tr>
         <td>2013-2017</td>
         <td>Engineering (ECE)</td>
-
       </tr>
       <tr>
         <td>2011-2013</td>
@@ -45,8 +44,6 @@
     <td><b>vlsi desing ⭐⭐⭐⭐</b></td>
   </tr>
 </table cellspacing="10">
-
-
     <hr size="1" noshade>
     <center>
         <h2>contents of <strong>html</strong></h2>
@@ -57,36 +54,5 @@
         <li><a href="https://whatismyipaddress.com/web-server">Internet server</a></li>
         <li><a href="https://us.webnode.com/">create your own website</a></li>
       </ul>
-
 </body>
-
-</html>
-
-<html lang="en" dir="ltr">
-  <head>
-    <meta charset="utf-8">
-    <title>contct details</title>
-  </head>
-  <body>
-    <h3>my address</h3>
-    <p>my phone number </p>
-    <p>770555684</p>
-    <a href="www.linkedin.com/in/singaram-vikas-8b6a2611b">linkedin profile</a>
-
-    <form action="mailto:singaramvikas39@gmail.com" method="post" enctype="text/plain">
-
-      <label for="name">enter user name:</label>
-  <input type="text">
-  <br>
-  <label for="email id">  email id:  </label>
-  <input type="email" id="email">
-  <br>
-  <br>
-  <label>
-    <textarea name="text" rows="5" cols="40"></textarea>
-  </label>
-<br>
-  <input type="submit">
-  </form>
-  </body>
 </html>
